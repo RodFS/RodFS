@@ -48,7 +48,7 @@ target="_blank"></a>
 ## 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="arduino" width="800px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
+  <img align="center" alt="arduino" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
 </div>
 
 ##
