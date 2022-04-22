@@ -22,13 +22,15 @@ target="_blank"></a>
 ### Informações:
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="GCP" width="170px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg">
-  <img align="center" alt="AWS" width="170px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+  <img align="left" alt="GCP" width="170px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg">
+  <img align="left" alt="AWS" width="170px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+  <img align="right" alt="python" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+  <img align="right" alt="C++" width="80px" src="https://wikiimg.tojsiabtv.com/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png">
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="python" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-  <img align="center" alt="C++" width="80px" src="https://wikiimg.tojsiabtv.com/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png">
+  <img align="right" alt="python" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+  <img align="right" alt="C++" width="80px" src="https://wikiimg.tojsiabtv.com/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png">
 </div>
   
 <div style="display: inline_block"><br>
