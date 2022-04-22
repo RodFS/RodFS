@@ -28,7 +28,6 @@ target="_blank"></a>
 
 <div style="display: inline_block"><br>
   <img align="left" alt="python" width="120px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-  <img align="rigth" alt="mysql" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
 ## 
