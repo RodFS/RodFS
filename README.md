@@ -30,7 +30,7 @@ target="_blank"></a>
   <img align="center" alt="mysql" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="GCP" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg">
   <img align="center" alt="databricks" width="80px" src="https://www.pikpng.com/pngl/b/392-3922727_databricks-is-giving-users-a-set-of-new.png">
-  <img align="center" alt="arduino" width="80px" src=https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  <img align="center" alt="arduino" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 </div>
 
 ##
