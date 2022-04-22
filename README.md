@@ -22,13 +22,13 @@ target="_blank"></a>
 ### Informações:
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="arduino" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
-  <img align="center" alt="C++" width="50px" src="https://wikiimg.tojsiabtv.com/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png">
+  <img align="center" alt="arduino" width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
+  <img align="center" alt="C++" width="55px" src="https://wikiimg.tojsiabtv.com/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png">
 </div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="GCP" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg">
-  <img align="center" alt="AWS" width="100px" src="https://img2.gratispng.com/20180830/ilu/kisspng-amazon-com-logo-brand-aws-turkey-symbol-flysteadi-home-5b88af52d61f57.7107578615356844348771.jpg">
+  <img align="center" alt="AWS" width="100px" src="https://w7.pngwing.com/pngs/705/423/png-transparent-amazon-com-amazon-prime-amazon-echo-sales-amazon-web-services-asterisk-symbol-text-service-retail.png">
 </div>
 
 <div style="display: inline_block"><br>
