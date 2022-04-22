@@ -22,9 +22,8 @@ target="_blank"></a>
 ### Informações:
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="GCP" width="170px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg">
-  <img align="center" alt="AWS" width="170px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
-  <img align="center" alt="arduino" width="170px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
+  <img align="center" alt="GCP" width="120px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg">
+  <img align="center" alt="AWS" width="120px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
 </div>
 
 <div style="display: inline_block"><br>
@@ -44,6 +43,12 @@ target="_blank"></a>
 
 <div style="display: inline_block"><br>
   <img align="left" alt="C++" width="80px" src="https://wikiimg.tojsiabtv.com/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png">
+</div>
+
+## 
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="arduino" width="170px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
 </div>
 
 ##
