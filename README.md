@@ -28,7 +28,7 @@ target="_blank"></a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="GCP" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg">
-  <img align="center" alt="AWS" width="100px" src="https://w7.pngwing.com/pngs/705/423/png-transparent-amazon-com-amazon-prime-amazon-echo-sales-amazon-web-services-asterisk-symbol-text-service-retail.png">
+  <img align="center" alt="AWS" width="100px" ![aws](https://user-images.githubusercontent.com/91967016/164790425-4ed965c8-b44d-453d-a5aa-ffeb1f7d1b9c.png)>
 </div>
 
 <div style="display: inline_block"><br>
