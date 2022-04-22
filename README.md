@@ -30,12 +30,12 @@ target="_blank"></a>
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="pandas" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
-  <img align="center" alt="apache_spark" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/512px-Apache_Spark_logo.svg.png?20210416091439">
-  <img align="center" alt="databricks" width="80px" src="https://beam.apache.org/images/logos/full-color/name-right/beam-logo-full-color-name-right-200.png">
-  <img align="center" alt="mongodb" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
-  <img align="center" alt="mysql" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="databricks" width="80px" src="https://www.pikpng.com/pngl/b/392-3922727_databricks-is-giving-users-a-set-of-new.png">
+  <img align="right" alt="pandas" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
+  <img align="right" alt="apache_spark" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/512px-Apache_Spark_logo.svg.png?20210416091439">
+  <img align="right" alt="databricks" width="80px" src="https://beam.apache.org/images/logos/full-color/name-right/beam-logo-full-color-name-right-200.png">
+  <img align="right" alt="mongodb" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
+  <img align="right" alt="mysql" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="right" alt="databricks" width="80px" src="https://www.pikpng.com/pngl/b/392-3922727_databricks-is-giving-users-a-set-of-new.png">
 </div>
 
 ##
