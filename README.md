@@ -5,7 +5,7 @@
 
 
 - 📖 Focado no aprendizado!
-- 👨🏽‍💻 Atualmente estudando: Cloud Computing, GCP, AWS, Python, C++
+- 👨🏽‍💻 Atualmente estudando: Cloud Computing, GCP, AWS, Python, C++, Git
 
 ### Onde me encontrar:
 
