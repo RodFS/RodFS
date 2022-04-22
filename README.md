@@ -27,7 +27,7 @@ target="_blank"></a>
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="left" alt="python" width="110px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+  <img align="left" alt="python" width="120px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
 </div>
 
 ## 
