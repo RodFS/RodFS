@@ -28,6 +28,7 @@ target="_blank"></a>
 <div style="display: inline_block"><br>
   <img align="center" alt="mongodb" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="mysql" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="git" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
 </div>
 
 <div style="display: inline_block"><br>
