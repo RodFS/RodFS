@@ -19,8 +19,6 @@ target="_blank"></a>
 
 ## 
 
-### Informações:
-
 <div style="display: inline_block"><br>
   <img align="center" alt="GCP" width="140px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg">
   <img align="center" alt="AWS" width="140px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
