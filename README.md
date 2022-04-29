@@ -40,7 +40,7 @@ target="_blank"></a>
 <div style="display: inline_block"><br>
   <img align="center" alt="pandas" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
   <img align="center" alt="apache_spark" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/512px-Apache_Spark_logo.svg.png?20210416091439">
-  <img align="center" alt="databricks" width="90px" src="https://beam.apache.org/images/logos/full-color/name-right/beam-logo-full-color-name-right-200.png">
+  <img align="center" alt="apache beam" width="90px" src="https://beam.apache.org/images/logos/full-color/name-right/beam-logo-full-color-name-right-200.png">
 </div>
 
 <div style="display: inline_block"><br>
