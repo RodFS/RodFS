@@ -5,7 +5,7 @@
 
 
 - 📖 Focado no aprendizado!
-- 👨🏽‍💻 Atualmente estudando: Cloud Computing, GCP, AWS, Python, C++, Git
+- 👨🏽‍💻 Atualmente estudando: Cloud Computing, GCP, AWS, Python, C++, Golang, Git
 
 ### Onde me encontrar:
 
@@ -19,11 +19,11 @@ target="_blank"></a>
 
 ## 
 
-### Informações:
-
 <div style="display: inline_block"><br>
   <img align="center" alt="GCP" width="140px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg">
   <img align="center" alt="AWS" width="140px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+  <img align="center" alt="Git" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
+  <img align="right" a href="https://github.com/RodFS" height="132em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodFS&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -40,7 +40,7 @@ target="_blank"></a>
 <div style="display: inline_block"><br>
   <img align="center" alt="pandas" width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
   <img align="center" alt="apache_spark" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/512px-Apache_Spark_logo.svg.png?20210416091439">
-  <img align="center" alt="databricks" width="90px" src="https://beam.apache.org/images/logos/full-color/name-right/beam-logo-full-color-name-right-200.png">
+  <img align="center" alt="apache beam" width="90px" src="https://beam.apache.org/images/logos/full-color/name-right/beam-logo-full-color-name-right-200.png">
 </div>
 
 <div style="display: inline_block"><br>
@@ -51,12 +51,4 @@ target="_blank"></a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="arduino" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
-</div>
-
-##
-
-<div align="center">
-  <a href="https://github.com/RodFS">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodFS&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" >
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodFS&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
