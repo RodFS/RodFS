@@ -28,12 +28,7 @@ target="_blank"></a>
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="mongodb" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
-  <img align="center" alt="mysql" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-</div>
-
-<div style="display: inline_block"><br>
-  <img align="left" alt="python" width="120px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+  <img align="left" alt="python" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
 </div>
 
 ## 
@@ -45,7 +40,7 @@ target="_blank"></a>
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="left" alt="C++" width="90px" src="https://wikiimg.tojsiabtv.com/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png">
+  <img align="left" alt="C++" width="70px" src="https://wikiimg.tojsiabtv.com/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png">
 </div>
 
 ## 
