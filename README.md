@@ -24,6 +24,8 @@ target="_blank"></a>
   <img align="center" alt="AWS" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
   <img align="center" alt="Git" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
   <img align="right" a href="https://github.com/RodFS" height="163em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodFS&layout=compact&langs_count=7&theme=github_dark"/>
+  <img align="center" alt="mongodb" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
+  <img align="center" alt="mysql" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
 <div style="display: inline_block"><br>
